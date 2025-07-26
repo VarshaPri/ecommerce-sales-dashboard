@@ -54,4 +54,5 @@ Enabled proactive business planning for peak sales periods and regional expansio
 
 <img width="1327" height="747" alt="image" src="https://github.com/user-attachments/assets/8422ecf4-73b0-4d7d-b785-500483435b84" />
 
-
+## Project Highlight:
+This Power BI dashboard is NOT just a forecasting tool. It’s a holistic analytics solution—enabling descriptive, diagnostic, and predictive insights that drive real business value.
